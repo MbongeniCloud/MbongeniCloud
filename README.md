@@ -13,6 +13,7 @@ Enterprise-grade file storage with RBAC, private endpoints, and monitoring.
 
 ### 🔹 Hybrid Identity Migration (Azure AD)
 Migrated on-prem AD to Azure AD with sync, SSO, and security hardening.
+https://github.com/MbongeniCloud/Azure-AD-Hybrid-Identity-Migration
 
 ## 🧠 What I Do
 
