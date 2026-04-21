@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm [Mbongeni Lefotlhe]
 
-<!--
-**MbongeniCloud/MbongeniCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud Engineer focused on Azure, building secure, scalable enterprise systems.
 
-Here are some ideas to get you started:
+- 🔐 Security-focused cloud architecture
+- ☁️ Azure | Terraform | Kubernetes
+- 🚀 Building real-world enterprise projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔹 Secure File Platform on Azure
+Enterprise-grade file storage with RBAC, private endpoints, and monitoring.
+
+### 🔹 Hybrid Identity Migration (Azure AD)
+Migrated on-prem AD to Azure AD with sync, SSO, and security hardening.
+
+## 🧠 What I Do
+
+I design and deploy secure Azure environments using:
+
+- Terraform (Infrastructure as Code)
+- Azure Kubernetes Service (AKS)
+- CI/CD with GitHub Actions
+- Monitoring with Azure Monitor & Log Analytics
+
+## 📫 Contact Me
+
+- Email: lefotlhem@yahoo.com
+- LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+
+
+
