@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mbongeni Lefotlhe]
+# 👋 Hi, I'm Mbongeni Lefotlhe
 
 I'm a Cloud Engineer focused on Azure, building secure, scalable enterprise systems.
 
@@ -10,6 +10,7 @@ I'm a Cloud Engineer focused on Azure, building secure, scalable enterprise syst
 
 ### 🔹 Secure File Platform on Azure
 Enterprise-grade file storage with RBAC, private endpoints, and monitoring.
+https://github.com/MbongeniCloud/secure-file-platform
 
 ### 🔹 Hybrid Identity Migration (Azure AD)
 Migrated on-prem AD to Azure AD with sync, SSO, and security hardening.
