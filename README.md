@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Mbongeni Lefotlhe
+#  Hi, I'm Mbongeni Lefotlhe
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
 
 
 I'm a Cloud Engineer focused on Azure, building secure, scalable enterprise systems.
 
-- 🔐 Security-focused cloud architecture
-- ☁️ Azure | Terraform | Kubernetes
-- 🚀 Building real-world enterprise projects
+-  Security-focused cloud architecture
+-  Azure | Terraform | Kubernetes
+-  Building real-world enterprise projects
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Secure File Platform on Azure
 Enterprise-grade file storage with RBAC, private endpoints, and monitoring.
@@ -19,7 +19,7 @@ https://github.com/MbongeniCloud/secure-file-platform
 Migrated on-prem AD to Azure AD with sync, SSO, and security hardening.
 https://github.com/MbongeniCloud/Azure-AD-Hybrid-Identity-Migration
 
-## 🧠 What I Do
+##  What I Do
 
 I design and deploy secure Azure environments using:
 
@@ -28,7 +28,7 @@ I design and deploy secure Azure environments using:
 - CI/CD with GitHub Actions
 - Monitoring with Azure Monitor & Log Analytics
 
-## 📫 Contact Me
+##  Contact Me
 
 - Email: lefotlhem@yahoo.com
 - LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
