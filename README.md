@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Mbongeni Lefotlhe
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+
 
 I'm a Cloud Engineer focused on Azure, building secure, scalable enterprise systems.
 
