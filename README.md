@@ -28,6 +28,8 @@ security alerting — all via Terraform.
 
 https://github.com/MbongeniCloud/enterprise-cloud-governance-popia
 
+(some repositories contain intentionally exposed configuration details for demonstration purposes — in production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
+
 ##  What I Do
 
 I build and secure cloud infrastructure on Azure, focusing on enterprise-grade architecture and real-world scenarios.
