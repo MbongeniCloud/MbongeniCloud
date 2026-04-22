@@ -30,7 +30,7 @@ I design and deploy secure Azure environments using:
 
 ##  Contact Me
 
-- Email: lefotlhem@yahoo.com
+- Email: lefotlhem@yahoo.com/ inkabifx@gmail.com
 - LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 
 
