@@ -25,7 +25,6 @@ End-to-end Azure governance framework enforcing POPIA compliance through
 infrastructure-as-code. Deploys hub-spoke networking, 5 custom Azure Policies,
 RBAC roles, Microsoft Defender, Key Vault, Log Analytics, and automated
 security alerting — all via Terraform.
-
 https://github.com/MbongeniCloud/enterprise-cloud-governance-popia
 
 (some repositories contain intentionally exposed configuration details for demonstration purposes — in production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
