@@ -19,6 +19,15 @@ https://github.com/MbongeniCloud/secure-file-platform
 Migrated on-prem AD to Azure AD with sync, SSO, and security hardening.
 https://github.com/MbongeniCloud/Azure-AD-Hybrid-Identity-Migration
 
+## 🔹 Enterprise Cloud Governance & POPIA Compliance Framework
+
+End-to-end Azure governance framework enforcing POPIA compliance through
+infrastructure-as-code. Deploys hub-spoke networking, 5 custom Azure Policies,
+RBAC roles, Microsoft Defender, Key Vault, Log Analytics, and automated
+security alerting — all via Terraform.
+
+https://github.com/MbongeniCloud/enterprise-cloud-governance-popia
+
 ##  What I Do
 
 I build and secure cloud infrastructure on Azure, focusing on enterprise-grade architecture and real-world scenarios.
