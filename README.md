@@ -21,12 +21,14 @@ https://github.com/MbongeniCloud/Azure-AD-Hybrid-Identity-Migration
 
 ##  What I Do
 
-I design and deploy secure Azure environments using:
+I build and secure cloud infrastructure on Azure, focusing on enterprise-grade architecture and real-world scenarios.
 
-- Terraform (Infrastructure as Code)
-- Azure Kubernetes Service (AKS)
-- CI/CD with GitHub Actions
-- Monitoring with Azure Monitor & Log Analytics
+This includes:
+- Provisioning and managing infrastructure with Terraform
+- Deploying and managing containerized applications on AKS
+- Implementing CI/CD pipelines for automated delivery
+- Designing, monitoring and logging solutions with Azure Monitor
+- Applying security best practices (RBAC, identity, network security)
 
 ##  Contact Me
 
