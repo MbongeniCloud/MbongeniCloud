@@ -47,7 +47,6 @@ This includes:
 ##  Contact Me
 
 - Email: lefotlhem@yahoo.com/ inkabifx@gmail.com
-- LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
-
+- LinkedIn: https://www.linkedin.com/in/mbongeni-lefotlhe-a2865b311?trk=contact-info
 
 
