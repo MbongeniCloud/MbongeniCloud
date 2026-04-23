@@ -12,22 +12,22 @@ I'm a Cloud Engineer focused on Azure, building secure, scalable enterprise syst
 
 ##  Featured Projects
 
-### 🔹 Secure File Platform on Azure
+### - Secure File Platform on Azure
 Enterprise-grade file storage with RBAC, private endpoints, and monitoring.
 https://github.com/MbongeniCloud/secure-file-platform
 
-### 🔹 Hybrid Identity Migration (Azure AD)
+### - Hybrid Identity Migration (Azure AD)
 Migrated on-prem AD to Azure AD with sync, SSO, and security hardening.
 https://github.com/MbongeniCloud/Azure-AD-Hybrid-Identity-Migration
 
-### 🔹 Enterprise Cloud Governance & POPIA Compliance Framework
+### - Enterprise Cloud Governance & POPIA Compliance Framework
 End-to-end Azure governance framework enforcing POPIA compliance through
 infrastructure-as-code. Deploys hub-spoke networking, 5 custom Azure Policies,
 RBAC roles, Microsoft Defender, Key Vault, Log Analytics, and automated
 security alerting — all via Terraform.
 https://github.com/MbongeniCloud/enterprise-cloud-governance-popia
 
-### 🔹 AI-Powered Document Intelligence & Compliance Platform
+### - AI-Powered Document Intelligence & Compliance Platform
 An enterprise-grade document processing system built on Microsoft Azure — automating the extraction, classification, risk assessment, and POPIA-compliant handling of sensitive financial documents using AI.
 https://github.com/MbongeniCloud/doc-intelligence-platform
 
