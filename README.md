@@ -27,6 +27,8 @@ RBAC roles, Microsoft Defender, Key Vault, Log Analytics, and automated
 security alerting — all via Terraform.
 https://github.com/MbongeniCloud/enterprise-cloud-governance-popia
 
+### 🔹 AI-Powered Document Intelligence & Compliance Platform
+
 (some repositories contain intentionally exposed configuration details for demonstration purposes — in production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
 
 ##  What I Do
