@@ -36,7 +36,7 @@ A production-grade, event-driven banking platform built on Azure Kubernetes Serv
 https://github.com/MbongeniCloud/banking-platform
 
 
-(some repositories contain intentionally exposed configuration details for demonstration purposes — in production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
+(some repositories contain intentionally exposed configuration details for demonstration purposes. In production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
 
 ##  What I Do
 
