@@ -31,6 +31,8 @@ https://github.com/MbongeniCloud/enterprise-cloud-governance-popia
 An enterprise-grade document processing system built on Microsoft Azure — automating the extraction, classification, risk assessment, and POPIA-compliant handling of sensitive financial documents using AI.
 https://github.com/MbongeniCloud/doc-intelligence-platform
 
+### - Banking Platform — Cloud-Native Microservices on AKS
+
 (some repositories contain intentionally exposed configuration details for demonstration purposes — in production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
 
 ##  What I Do
