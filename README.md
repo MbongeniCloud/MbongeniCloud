@@ -32,6 +32,7 @@ An enterprise-grade document processing system built on Microsoft Azure — auto
 https://github.com/MbongeniCloud/doc-intelligence-platform
 
 ### - Banking Platform — Cloud-Native Microservices on AKS
+A production-grade, event-driven banking platform built on Azure Kubernetes Service. Designed to demonstrate how modern financial systems handle real-time transactions, fraud detection, and account management at scale — the same architectural patterns used by teams at Capitec, Nedbank, and Standard Bank.
 
 (some repositories contain intentionally exposed configuration details for demonstration purposes — in production environments, all sensitive data is stored in Key Vault and excluded via .gitignore)
 
